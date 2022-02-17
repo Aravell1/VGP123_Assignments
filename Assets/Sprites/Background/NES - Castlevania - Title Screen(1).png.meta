@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 6ec14a4336cc5dd4f931913994e7c28b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5898105235323477434
+    second: Title
+  - first:
+      213: -645752830656210918
+    second: Title2
+  - first:
+      213: 7320097567105384633
+    second: NES - Castlevania - Title Screen(1)_2
+  - first:
+      213: 6164935016441228536
+    second: Start
+  - first:
+      213: 3359825075425081594
+    second: NES - Castlevania - Title Screen(1)_4
+  - first:
+      213: -4024832750264227570
+    second: NES - Castlevania - Title Screen(1)_5
+  - first:
+      213: -3063513797336566434
+    second: NES - Castlevania - Title Screen(1)_6
+  - first:
+      213: -6951983191890963036
+    second: NES - Castlevania - Title Screen(1)_7
+  - first:
+      213: 4616675077415545020
+    second: NES - Castlevania - Title Screen(1)_8
+  - first:
+      213: 7212617397223298699
+    second: NES - Castlevania - Title Screen(1)_9
+  - first:
+      213: -2930106817223369921
+    second: NES - Castlevania - Title Screen(1)_10
+  - first:
+      213: -3298427488418759844
+    second: NES - Castlevania - Title Screen(1)_11
+  - first:
+      213: -4956336767613498114
+    second: NES - Castlevania - Title Screen(1)_12
+  - first:
+      213: -7863863678262838173
+    second: NES - Castlevania - Title Screen(1)_13
+  - first:
+      213: -6323309984256144161
+    second: NES - Castlevania - Title Screen(1)_14
+  - first:
+      213: 8234279201572286961
+    second: NES - Castlevania - Title Screen(1)_15
+  - first:
+      213: -4408648341771548675
+    second: NES - Castlevania - Title Screen(1)_16
+  - first:
+      213: -9116715068497471564
+    second: NES - Castlevania - Title Screen(1)_17
+  - first:
+      213: -2757024896647874241
+    second: NES - Castlevania - Title Screen(1)_18
+  - first:
+      213: 5074487512593596370
+    second: NES - Castlevania - Title Screen(1)_19
+  - first:
+      213: 100027830512468924
+    second: NES - Castlevania - Title Screen(1)_20
+  - first:
+      213: -1062480503072305272
+    second: NES - Castlevania - Title Screen(1)_21
+  - first:
+      213: 3837986580909062610
+    second: NES - Castlevania - Title Screen(1)_22
+  - first:
+      213: -4750342100017858909
+    second: NES - Castlevania - Title Screen(1)_23
+  - first:
+      213: -6950747798120151199
+    second: Bat1
+  - first:
+      213: -8329906870663561443
+    second: Bat2
+  - first:
+      213: -74678877530651253
+    second: Bat3
+  - first:
+      213: 6025839863413876528
+    second: Bat4
+  - first:
+      213: 7993461495740228087
+    second: Bat5
+  - first:
+      213: 8352578164458271309
+    second: Bat6
+  - first:
+      213: 4625521549040735730
+    second: Bat7
+  - first:
+      213: -3960901025166955020
+    second: Bat8
+  - first:
+      213: -9201474972449935692
+    second: Bat9
+  - first:
+      213: 8267494257751477984
+    second: Bat10
+  - first:
+      213: 1612182677248721998
+    second: Bat11
+  - first:
+      213: 7249476023506045365
+    second: Bat12
+  - first:
+      213: -5975686910060285226
+    second: Bat13
+  - first:
+      213: -3853901923109423098
+    second: Bat14
+  - first:
+      213: 2793018069819272317
+    second: Bat15
+  - first:
+      213: 2110857945787454579
+    second: Bat16
+  - first:
+      213: -2425152004021321613
+    second: Bat17
+  - first:
+      213: 2617779263880689303
+    second: Bat18
+  - first:
+      213: 2594512169905702101
+    second: Bat19
+  - first:
+      213: -4435222543907017192
+    second: Bat20
+  - first:
+      213: -3796399539641477333
+    second: Bat21
+  - first:
+      213: -419824018279983874
+    second: Bat22
+  - first:
+      213: 5377428493211479529
+    second: Bat23
+  - first:
+      213: 6155489816688980140
+    second: Bat24
+  - first:
+      213: -8403419992763721503
+    second: Bat25
+  - first:
+      213: 4050711156125494543
+    second: Bat26
+  - first:
+      213: -4156184444903449044
+    second: Bat27
+  - first:
+      213: 5581440783952653258
+    second: Bat28
+  - first:
+      213: 1160318678727558451
+    second: Bat29
+  - first:
+      213: -4456233968469266131
+    second: Bat30
+  - first:
+      213: 1499973731082315853
+    second: Bat31
+  - first:
+      213: 2678566435356450642
+    second: Bat32
+  - first:
+      213: 5243329307515973274
+    second: Bat33
+  - first:
+      213: 7711326203690352204
+    second: Bat34
+  - first:
+      213: 2243729090155656688
+    second: Bat35
+  - first:
+      213: -8276482023406989347
+    second: Bat36
+  - first:
+      213: 6539942146204359870
+    second: Bat37
+  - first:
+      213: 6519996836509306063
+    second: Bat38
+  - first:
+      213: 5739196274025382370
+    second: Bat39
+  - first:
+      213: -6896866585231166001
+    second: Bat40
+  - first:
+      213: 5683684510959044022
+    second: NES - Castlevania - Title Screen(1)_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Title
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 278
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdd35746774ad150800000000000000
+      internalID: 5898105235323477434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 278
+        width: 256
+        height: 240
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18980cc833d907f0800000000000000
+      internalID: -645752830656210918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 397
+        width: 34
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0848824f5369560800000000000000
+      internalID: 7320097567105384633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 510
+        width: 112
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fca856fbbf3e8550800000000000000
+      internalID: 6164935016441228536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 501
+        width: 112
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af87920ea1f70ae20800000000000000
+      internalID: 3359825075425081594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 376
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09642820fbe428c0800000000000000
+      internalID: -4024832750264227570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 376
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55fe39be663c75d0800000000000000
+      internalID: -3063513797336566434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 376
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a55ad2ce18958f90800000000000000
+      internalID: -6951983191890963036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_8
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 376
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a0c0d589b11040800000000000000
+      internalID: 4616675077415545020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_9
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 376
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b861c460f4d581460800000000000000
+      internalID: 7212617397223298699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_10
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 376
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b5375cf5b2657d0800000000000000
+      internalID: -2930106817223369921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_11
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 360
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b7a63dca1a932d0800000000000000
+      internalID: -3298427488418759844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_12
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 360
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc803b38fd873bb0800000000000000
+      internalID: -4956336767613498114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 360
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cfb0f26a1fdd290800000000000000
+      internalID: -7863863678262838173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 266
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc4bb752171f38a0800000000000000
+      internalID: -6323309984256144161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f17a178e49064270800000000000000
+      internalID: 8234279201572286961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 266
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df78711f0b551d2c0800000000000000
+      internalID: -4408648341771548675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7d1c792fbea7180800000000000000
+      internalID: -9116715068497471564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 266
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39356eb6741db9d0800000000000000
+      internalID: -2757024896647874241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 266
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dffb45c1833c6640800000000000000
+      internalID: 5074487512593596370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 266
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3495928ce536100800000000000000
+      internalID: 100027830512468924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_21
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 266
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc8999c9f4141f0800000000000000
+      internalID: -1062480503072305272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 266
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9fcc7f574434530800000000000000
+      internalID: 3837986580909062610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 266
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63ad64705631eb0800000000000000
+      internalID: -4750342100017858909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16748b944bbf98f90800000000000000
+      internalID: -6950747798120151199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f330ab5d9366c80800000000000000
+      internalID: -8329906870663561443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858f80e4ffa6fef0800000000000000
+      internalID: -74678877530651253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0372c24fd6510a350800000000000000
+      internalID: 6025839863413876528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1eb5311ea7eee60800000000000000
+      internalID: 7993461495740228087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat6
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42383336915ae370800000000000000
+      internalID: 8352578164458271309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat7
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5dc7f7757213040800000000000000
+      internalID: 4625521549040735730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd617cd08d0809c0800000000000000
+      internalID: -3960901025166955020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6979934bcd4080800000000000000
+      internalID: -9201474972449935692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat10
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 207
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eecbdf693a0cb270800000000000000
+      internalID: 8267494257751477984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c27e6a9f9f5610800000000000000
+      internalID: 1612182677248721998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90ac4b8005b9460800000000000000
+      internalID: 7249476023506045365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2b7e47a68121da0800000000000000
+      internalID: -5975686910060285226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat14
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6083ed9ae90348ac0800000000000000
+      internalID: -3853901923109423098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat15
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c23dee22bc2c620800000000000000
+      internalID: 2793018069819272317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374d8fd2e164b4d10800000000000000
+      internalID: 2110857945787454579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat17
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3708bf1f911285ed0800000000000000
+      internalID: -2425152004021321613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796fdf3fe58345420800000000000000
+      internalID: 2617779263880689303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d448ac721f810420800000000000000
+      internalID: 2594512169905702101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat20
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 150
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e2e9a589ce272c0800000000000000
+      internalID: -4435222543907017192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27963e9bba705bc0800000000000000
+      internalID: -3796399539641477333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat22
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef49e3a974c7c2af0800000000000000
+      internalID: -419824018279983874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed2fe649b670aa40800000000000000
+      internalID: 5377428493211479529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat24
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0f7460061bc6550800000000000000
+      internalID: 6155489816688980140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e817e03a0e016b80800000000000000
+      internalID: -8403419992763721503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d629cb554073830800000000000000
+      internalID: 4050711156125494543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2e968c84444256c0800000000000000
+      internalID: -4156184444903449044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb206e32d2457d40800000000000000
+      internalID: 5581440783952653258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat29
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3358ecfc0b74a1010800000000000000
+      internalID: 1160318678727558451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat30
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 93
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213c59d0d64822c0800000000000000
+      internalID: -4456233968469266131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d482495492af0d410800000000000000
+      internalID: 1499973731082315853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat32
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f94b63bfd2c2520800000000000000
+      internalID: 2678566435356450642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e62ee893c04c840800000000000000
+      internalID: 5243329307515973274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eff1e6352240b60800000000000000
+      internalID: 7711326203690352204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f530fe38b3532f10800000000000000
+      internalID: 2243729090155656688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf8bec4377042d80800000000000000
+      internalID: -8276482023406989347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcdd1c5bba82ca50800000000000000
+      internalID: 6539942146204359870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat38
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcccec0149eab7a50800000000000000
+      internalID: 6519996836509306063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e147898a98b5af40800000000000000
+      internalID: 5739196274025382370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bat40
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 36
+        width: 72
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5f804c1686940a0800000000000000
+      internalID: -6896866585231166001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Castlevania - Title Screen(1)_64
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1
+        width: 224
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58a1303f080ee40800000000000000
+      internalID: 5683684510959044022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

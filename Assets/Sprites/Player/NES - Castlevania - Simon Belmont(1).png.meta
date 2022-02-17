@@ -1,0 +1,3405 @@
+fileFormatVersion: 2
+guid: 57f3eb7c4df3f0c49a0e680d8df1a06e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4865089187627420765
+    second: NES - Castlevania - Simon Belmont(1)_0
+  - first:
+      213: 7031714844221238581
+    second: NES - Castlevania - Simon Belmont(1)_1
+  - first:
+      213: -7996370015177314462
+    second: NES - Castlevania - Simon Belmont(1)_2
+  - first:
+      213: -5947336123160227420
+    second: NES - Castlevania - Simon Belmont(1)_3
+  - first:
+      213: 6632756295403626803
+    second: NES - Castlevania - Simon Belmont(1)_4
+  - first:
+      213: -8714986536587089676
+    second: NES - Castlevania - Simon Belmont(1)_5
+  - first:
+      213: 7272857603251990529
+    second: NES - Castlevania - Simon Belmont(1)_6
+  - first:
+      213: 1755642767880128048
+    second: NES - Castlevania - Simon Belmont(1)_7
+  - first:
+      213: 4566347551752290520
+    second: NES - Castlevania - Simon Belmont(1)_22
+  - first:
+      213: 337967346346003480
+    second: NES - Castlevania - Simon Belmont(1)_23
+  - first:
+      213: -6976796654248074578
+    second: NES - Castlevania - Simon Belmont(1)_24
+  - first:
+      213: -6386164527816240177
+    second: NES - Castlevania - Simon Belmont(1)_26
+  - first:
+      213: -9002841017940735214
+    second: NES - Castlevania - Simon Belmont(1)_27
+  - first:
+      213: 1892665250749716307
+    second: NES - Castlevania - Simon Belmont(1)_28
+  - first:
+      213: 3953417672283237139
+    second: NES - Castlevania - Simon Belmont(1)_29
+  - first:
+      213: -501726453404440243
+    second: NES - Castlevania - Simon Belmont(1)_30
+  - first:
+      213: 5526419614194980527
+    second: NES - Castlevania - Simon Belmont(1)_31
+  - first:
+      213: 9173390420416410711
+    second: NES - Castlevania - Simon Belmont(1)_32
+  - first:
+      213: 8624484854900772557
+    second: NES - Castlevania - Simon Belmont(1)_33
+  - first:
+      213: -3829337255146143555
+    second: NES - Castlevania - Simon Belmont(1)_34
+  - first:
+      213: -6569678265917708950
+    second: NES - Castlevania - Simon Belmont(1)_35
+  - first:
+      213: -4547228512452202967
+    second: NES - Castlevania - Simon Belmont(1)_36
+  - first:
+      213: 3987633883225505662
+    second: NES - Castlevania - Simon Belmont(1)_37
+  - first:
+      213: 2225004434814266422
+    second: NES - Castlevania - Simon Belmont(1)_38
+  - first:
+      213: -7666945034800334873
+    second: NES - Castlevania - Simon Belmont(1)_39
+  - first:
+      213: -5857897824214840352
+    second: NES - Castlevania - Simon Belmont(1)_40
+  - first:
+      213: 5979496927806955608
+    second: NES - Castlevania - Simon Belmont(1)_41
+  - first:
+      213: -1035960434764839126
+    second: NES - Castlevania - Simon Belmont(1)_42
+  - first:
+      213: 3519793654757626809
+    second: NES - Castlevania - Simon Belmont(1)_43
+  - first:
+      213: -2898598906017155488
+    second: NES - Castlevania - Simon Belmont(1)_44
+  - first:
+      213: 8495312986798018742
+    second: NES - Castlevania - Simon Belmont(1)_45
+  - first:
+      213: -1189158898903024237
+    second: NES - Castlevania - Simon Belmont(1)_46
+  - first:
+      213: -3634666400410293722
+    second: NES - Castlevania - Simon Belmont(1)_47
+  - first:
+      213: -1108095513734048243
+    second: NES - Castlevania - Simon Belmont(1)_48
+  - first:
+      213: 1439551628285925792
+    second: NES - Castlevania - Simon Belmont(1)_49
+  - first:
+      213: 1849170677771510681
+    second: NES - Castlevania - Simon Belmont(1)_50
+  - first:
+      213: 1565371669573415151
+    second: NES - Castlevania - Simon Belmont(1)_51
+  - first:
+      213: 8380933117036997441
+    second: NES - Castlevania - Simon Belmont(1)_52
+  - first:
+      213: -826286906085814034
+    second: NES - Castlevania - Simon Belmont(1)_53
+  - first:
+      213: 6252634841139218021
+    second: NES - Castlevania - Simon Belmont(1)_54
+  - first:
+      213: -2372154052123275016
+    second: NES - Castlevania - Simon Belmont(1)_55
+  - first:
+      213: 2249107687697096735
+    second: NES - Castlevania - Simon Belmont(1)_56
+  - first:
+      213: -4573559908154451178
+    second: NES - Castlevania - Simon Belmont(1)_57
+  - first:
+      213: 333421920118598964
+    second: Idle
+  - first:
+      213: 1746903257652755939
+    second: Walk1
+  - first:
+      213: -6195865275084086366
+    second: Walk2
+  - first:
+      213: 1155851250569333084
+    second: Walk3
+  - first:
+      213: 897842773192790124
+    second: JumpCrouch
+  - first:
+      213: 8121875181232524135
+    second: ClimbStairsUp1
+  - first:
+      213: -4318109318926986210
+    second: ClimbStairsUp2
+  - first:
+      213: 8030524954042719859
+    second: ClimbStairsDown1
+  - first:
+      213: 8539528845316292106
+    second: ClimbStairsDown2
+  - first:
+      213: 5844876971042761364
+    second: Damage
+  - first:
+      213: -2748242728048212064
+    second: Death1
+  - first:
+      213: 8981260045781260679
+    second: Death2
+  - first:
+      213: 799967892106618348
+    second: NES - Castlevania - Simon Belmont(1)_70
+  - first:
+      213: -5163298311180931814
+    second: NES - Castlevania - Simon Belmont(1)_71
+  - first:
+      213: -3518486859490261994
+    second: NES - Castlevania - Simon Belmont(1)_72
+  - first:
+      213: 1686152645566044627
+    second: NES - Castlevania - Simon Belmont(1)_73
+  - first:
+      213: -4381165616626770643
+    second: NES - Castlevania - Simon Belmont(1)_74
+  - first:
+      213: 8099979199681393705
+    second: NES - Castlevania - Simon Belmont(1)_75
+  - first:
+      213: 348678697243226239
+    second: NES - Castlevania - Simon Belmont(1)_76
+  - first:
+      213: -7238656750411119962
+    second: NES - Castlevania - Simon Belmont(1)_77
+  - first:
+      213: 7957722485308546320
+    second: NES - Castlevania - Simon Belmont(1)_78
+  - first:
+      213: 4324269774316842902
+    second: NES - Castlevania - Simon Belmont(1)_79
+  - first:
+      213: 5297879491472427568
+    second: NES - Castlevania - Simon Belmont(1)_80
+  - first:
+      213: -1228945839756743132
+    second: NES - Castlevania - Simon Belmont(1)_81
+  - first:
+      213: 7881318840056580809
+    second: NES - Castlevania - Simon Belmont(1)_82
+  - first:
+      213: 8093980282914089831
+    second: NES - Castlevania - Simon Belmont(1)_83
+  - first:
+      213: 581244732585668814
+    second: NES - Castlevania - Simon Belmont(1)_84
+  - first:
+      213: 7643608171092230372
+    second: NES - Castlevania - Simon Belmont(1)_85
+  - first:
+      213: -7494399221283235799
+    second: NES - Castlevania - Simon Belmont(1)_86
+  - first:
+      213: 1618669008572082884
+    second: NES - Castlevania - Simon Belmont(1)_87
+  - first:
+      213: 3437637884677823968
+    second: NES - Castlevania - Simon Belmont(1)_88
+  - first:
+      213: -1266237554939879696
+    second: NES - Castlevania - Simon Belmont(1)_89
+  - first:
+      213: 4371794249427493710
+    second: NES - Castlevania - Simon Belmont(1)_90
+  - first:
+      213: 8655125325191147817
+    second: NES - Castlevania - Simon Belmont(1)_91
+  - first:
+      213: 1951928954589410503
+    second: NES - Castlevania - Simon Belmont(1)_92
+  - first:
+      213: -2902836968956038332
+    second: NES - Castlevania - Simon Belmont(1)_93
+  - first:
+      213: -9200530797493916562
+    second: NES - Castlevania - Simon Belmont(1)_94
+  - first:
+      213: 6243663259279446961
+    second: NES - Castlevania - Simon Belmont(1)_95
+  - first:
+      213: 1118460048537774300
+    second: NES - Castlevania - Simon Belmont(1)_96
+  - first:
+      213: 8595489745862089547
+    second: NES - Castlevania - Simon Belmont(1)_97
+  - first:
+      213: 5696327847053796635
+    second: NES - Castlevania - Simon Belmont(1)_98
+  - first:
+      213: -3259782219857392087
+    second: NES - Castlevania - Simon Belmont(1)_99
+  - first:
+      213: 7098934236313520545
+    second: NES - Castlevania - Simon Belmont(1)_100
+  - first:
+      213: 8917743355766401492
+    second: NES - Castlevania - Simon Belmont(1)_101
+  - first:
+      213: -2012220893499507123
+    second: NES - Castlevania - Simon Belmont(1)_102
+  - first:
+      213: -3734847455463382065
+    second: NES - Castlevania - Simon Belmont(1)_103
+  - first:
+      213: 1489312645796605573
+    second: NES - Castlevania - Simon Belmont(1)_104
+  - first:
+      213: 4610889966841370429
+    second: NES - Castlevania - Simon Belmont(1)_105
+  - first:
+      213: -5205088945947820292
+    second: NES - Castlevania - Simon Belmont(1)_106
+  - first:
+      213: -7849143914131116316
+    second: NES - Castlevania - Simon Belmont(1)_107
+  - first:
+      213: 8274704929727116488
+    second: NES - Castlevania - Simon Belmont(1)_108
+  - first:
+      213: -7598112363763474585
+    second: NES - Castlevania - Simon Belmont(1)_109
+  - first:
+      213: -7268311417820845454
+    second: NES - Castlevania - Simon Belmont(1)_110
+  - first:
+      213: -4859706824964280808
+    second: NES - Castlevania - Simon Belmont(1)_111
+  - first:
+      213: 2040876413974921612
+    second: NES - Castlevania - Simon Belmont(1)_112
+  - first:
+      213: -7498230411764964375
+    second: NES - Castlevania - Simon Belmont(1)_113
+  - first:
+      213: -349304212900507290
+    second: NES - Castlevania - Simon Belmont(1)_114
+  - first:
+      213: 6684138006861782076
+    second: NES - Castlevania - Simon Belmont(1)_115
+  - first:
+      213: 7784109734083862726
+    second: NES - Castlevania - Simon Belmont(1)_116
+  - first:
+      213: -1666205220345722619
+    second: NES - Castlevania - Simon Belmont(1)_117
+  - first:
+      213: -7149382411911471004
+    second: NES - Castlevania - Simon Belmont(1)_118
+  - first:
+      213: -3892523320259481132
+    second: NES - Castlevania - Simon Belmont(1)_119
+  - first:
+      213: -6069990374931327747
+    second: NES - Castlevania - Simon Belmont(1)_120
+  - first:
+      213: -4142474653572479605
+    second: NES - Castlevania - Simon Belmont(1)_121
+  - first:
+      213: 6228061236898777796
+    second: NES - Castlevania - Simon Belmont(1)_122
+  - first:
+      213: 220865798591626866
+    second: NES - Castlevania - Simon Belmont(1)_123
+  - first:
+      213: -864806191711570862
+    second: NES - Castlevania - Simon Belmont(1)_124
+  - first:
+      213: 1537238613481972148
+    second: NES - Castlevania - Simon Belmont(1)_125
+  - first:
+      213: 2880160223995471849
+    second: NES - Castlevania - Simon Belmont(1)_126
+  - first:
+      213: 1704096378078554256
+    second: NES - Castlevania - Simon Belmont(1)_127
+  - first:
+      213: 5471239495290241472
+    second: NES - Castlevania - Simon Belmont(1)_128
+  - first:
+      213: 1434793402568840254
+    second: NES - Castlevania - Simon Belmont(1)_129
+  - first:
+      213: 5554384673639873430
+    second: NES - Castlevania - Simon Belmont(1)_130
+  - first:
+      213: -4433995064015222104
+    second: NES - Castlevania - Simon Belmont(1)_131
+  - first:
+      213: -3804601733333314500
+    second: NES - Castlevania - Simon Belmont(1)_132
+  - first:
+      213: 5971956873507386269
+    second: NES - Castlevania - Simon Belmont(1)_133
+  - first:
+      213: 4615478270967879861
+    second: NES - Castlevania - Simon Belmont(1)_134
+  - first:
+      213: 8421265684273842814
+    second: NES - Castlevania - Simon Belmont(1)_135
+  - first:
+      213: -1853083514009126752
+    second: NES - Castlevania - Simon Belmont(1)_136
+  - first:
+      213: -6879905867153239473
+    second: NES - Castlevania - Simon Belmont(1)_137
+  - first:
+      213: 870721057767717776
+    second: NES - Castlevania - Simon Belmont(1)_138
+  - first:
+      213: -5437770810200364415
+    second: Throw1
+  - first:
+      213: 2634473059996967144
+    second: Throw2
+  - first:
+      213: -6906391704361403174
+    second: Throw3
+  - first:
+      213: -1064635412268612343
+    second: NES - Castlevania - Simon Belmont(1)_142
+  - first:
+      213: -8570751972715153337
+    second: NES - Castlevania - Simon Belmont(1)_143
+  - first:
+      213: -5510867813535688067
+    second: NES - Castlevania - Simon Belmont(1)_144
+  - first:
+      213: -2300574614016885203
+    second: DuckThrow1
+  - first:
+      213: 3160473952669546711
+    second: DuckThrow2
+  - first:
+      213: -3538790360570241300
+    second: DuckThrow3
+  - first:
+      213: 7278814006781893794
+    second: NES - Castlevania - Simon Belmont(1)_148
+  - first:
+      213: 6672444557263553413
+    second: NES - Castlevania - Simon Belmont(1)_149
+  - first:
+      213: 4282187050154947401
+    second: NES - Castlevania - Simon Belmont(1)_150
+  - first:
+      213: -9157647218157504831
+    second: ThrowStairsUp1
+  - first:
+      213: -3486920480196165044
+    second: ThrowStairsUp2
+  - first:
+      213: 4451254506422037981
+    second: ThrowStairsUp3
+  - first:
+      213: 533138999064231344
+    second: NES - Castlevania - Simon Belmont(1)_154
+  - first:
+      213: -4393474874030207655
+    second: NES - Castlevania - Simon Belmont(1)_155
+  - first:
+      213: 2148947816072753570
+    second: NES - Castlevania - Simon Belmont(1)_156
+  - first:
+      213: 6583302802152665499
+    second: ThrowStairsDown1
+  - first:
+      213: -2914117310249019751
+    second: ThrowStairsDown2
+  - first:
+      213: -8376962239472114848
+    second: ThrowStairsDown3
+  - first:
+      213: 1746024458494070464
+    second: NES - Castlevania - Simon Belmont(1)_160
+  - first:
+      213: 8474778627965199589
+    second: NES - Castlevania - Simon Belmont(1)_161
+  - first:
+      213: -2286021568294118365
+    second: NES - Castlevania - Simon Belmont(1)_162
+  - first:
+      213: 4708588189428389661
+    second: NES - Castlevania - Simon Belmont(1)_163
+  - first:
+      213: 6659700721562870791
+    second: NES - Castlevania - Simon Belmont(1)_164
+  - first:
+      213: 7062113781639227390
+    second: NES - Castlevania - Simon Belmont(1)_165
+  - first:
+      213: -5973705196547755873
+    second: NES - Castlevania - Simon Belmont(1)_166
+  - first:
+      213: -9099998890830243989
+    second: NES - Castlevania - Simon Belmont(1)_167
+  - first:
+      213: -8194008883770571116
+    second: NES - Castlevania - Simon Belmont(1)_168
+  - first:
+      213: 4558045283611986786
+    second: NES - Castlevania - Simon Belmont(1)_169
+  - first:
+      213: -7576622338362514073
+    second: NES - Castlevania - Simon Belmont(1)_170
+  - first:
+      213: 5356597681750431695
+    second: NES - Castlevania - Simon Belmont(1)_171
+  - first:
+      213: 3344640262711856215
+    second: NES - Castlevania - Simon Belmont(1)_172
+  - first:
+      213: 5739949915310911973
+    second: NES - Castlevania - Simon Belmont(1)_173
+  - first:
+      213: 7440273378946787494
+    second: NES - Castlevania - Simon Belmont(1)_174
+  - first:
+      213: 5101588796525694654
+    second: NES - Castlevania - Simon Belmont(1)_175
+  - first:
+      213: -6960980050249247129
+    second: NES - Castlevania - Simon Belmont(1)_176
+  - first:
+      213: 5665800117276796038
+    second: NES - Castlevania - Simon Belmont(1)_177
+  - first:
+      213: -1070395026669243924
+    second: NES - Castlevania - Simon Belmont(1)_178
+  - first:
+      213: -4275665498517205810
+    second: NES - Castlevania - Simon Belmont(1)_179
+  - first:
+      213: 3005721001862675739
+    second: NES - Castlevania - Simon Belmont(1)_180
+  - first:
+      213: -2805816814717532933
+    second: NES - Castlevania - Simon Belmont(1)_181
+  - first:
+      213: 6937189179968022118
+    second: NES - Castlevania - Simon Belmont(1)_182
+  - first:
+      213: 6455607495332459099
+    second: NES - Castlevania - Simon Belmont(1)_183
+  - first:
+      213: 1332917165632755148
+    second: NES - Castlevania - Simon Belmont(1)_184
+  - first:
+      213: -2738591450556871879
+    second: NES - Castlevania - Simon Belmont(1)_185
+  - first:
+      213: -9112130053299620303
+    second: NES - Castlevania - Simon Belmont(1)_186
+  - first:
+      213: 2004905918119985847
+    second: NES - Castlevania - Simon Belmont(1)_187
+  - first:
+      213: -7773987374049030943
+    second: NES - Castlevania - Simon Belmont(1)_188
+  - first:
+      213: 446844489016346852
+    second: NES - Castlevania - Simon Belmont(1)_189
+  - first:
+      213: 8414149581202540549
+    second: NES - Castlevania - Simon Belmont(1)_190
+  - first:
+      213: -6891853967175651866
+    second: NES - Castlevania - Simon Belmont(1)_191
+  - first:
+      213: -3665774262459329791
+    second: NES - Castlevania - Simon Belmont(1)_192
+  - first:
+      213: -4958418089171918748
+    second: NES - Castlevania - Simon Belmont(1)_193
+  - first:
+      213: 2711158997782790152
+    second: NES - Castlevania - Simon Belmont(1)_194
+  - first:
+      213: -2502955250799689735
+    second: NES - Castlevania - Simon Belmont(1)_195
+  - first:
+      213: -6158605855771181252
+    second: NES - Castlevania - Simon Belmont(1)_196
+  - first:
+      213: 6408272942663579216
+    second: NES - Castlevania - Simon Belmont(1)_197
+  - first:
+      213: -1244222375598020583
+    second: NES - Castlevania - Simon Belmont(1)_198
+  - first:
+      213: -4561641150514218010
+    second: NES - Castlevania - Simon Belmont(1)_199
+  - first:
+      213: 1889141041034921968
+    second: NES - Castlevania - Simon Belmont(1)_200
+  - first:
+      213: 411436005034108038
+    second: NES - Castlevania - Simon Belmont(1)_201
+  - first:
+      213: -5713340372878891094
+    second: NES - Castlevania - Simon Belmont(1)_202
+  - first:
+      213: -7976486566459936381
+    second: NES - Castlevania - Simon Belmont(1)_203
+  - first:
+      213: -3570596566528656762
+    second: NES - Castlevania - Simon Belmont(1)_204
+  - first:
+      213: 3771739418868938783
+    second: NES - Castlevania - Simon Belmont(1)_205
+  - first:
+      213: 8540364851819991183
+    second: NES - Castlevania - Simon Belmont(1)_206
+  - first:
+      213: -8670397303897588731
+    second: NES - Castlevania - Simon Belmont(1)_207
+  - first:
+      213: 8717024074007944229
+    second: NES - Castlevania - Simon Belmont(1)_208
+  - first:
+      213: 2944554628149212559
+    second: NES - Castlevania - Simon Belmont(1)_209
+  - first:
+      213: -8904780231117272863
+    second: NES - Castlevania - Simon Belmont(1)_210
+  - first:
+      213: 1206233523809265412
+    second: NES - Castlevania - Simon Belmont(1)_211
+  - first:
+      213: 7270246229872736173
+    second: NES - Castlevania - Simon Belmont(1)_212
+  - first:
+      213: 8711373224670383414
+    second: NES - Castlevania - Simon Belmont(1)_213
+  - first:
+      213: 1230874797859167903
+    second: NES - Castlevania - Simon Belmont(1)_214
+  - first:
+      213: -5988858128737891723
+    second: NES - Castlevania - Simon Belmont(1)_215
+  - first:
+      213: -220559134319063940
+    second: NES - Castlevania - Simon Belmont(1)_216
+  - first:
+      213: -133592323979442293
+    second: NES - Castlevania - Simon Belmont(1)_217
+  - first:
+      213: -5457467425920668409
+    second: NES - Castlevania - Simon Belmont(1)_218
+  - first:
+      213: -7958039806894741443
+    second: NES - Castlevania - Simon Belmont(1)_219
+  - first:
+      213: 1154302213901350852
+    second: NES - Castlevania - Simon Belmont(1)_220
+  - first:
+      213: -8521557778130619938
+    second: NES - Castlevania - Simon Belmont(1)_221
+  - first:
+      213: -3509615254436398189
+    second: NES - Castlevania - Simon Belmont(1)_222
+  - first:
+      213: 6201902837848792817
+    second: NES - Castlevania - Simon Belmont(1)_223
+  - first:
+      213: -2683763541403506376
+    second: NES - Castlevania - Simon Belmont(1)_224
+  - first:
+      213: -6004382403903954397
+    second: NES - Castlevania - Simon Belmont(1)_225
+  - first:
+      213: 2596985144104915426
+    second: NES - Castlevania - Simon Belmont(1)_226
+  - first:
+      213: 6857268304239136633
+    second: WhipBasic1
+  - first:
+      213: -6558552659267829522
+    second: WhipBasic2
+  - first:
+      213: 128408861699800507
+    second: WhipBasic3
+  - first:
+      213: 1870546484622000106
+    second: WhipBasic4
+  - first:
+      213: 5424253804333389808
+    second: WhipBasic5
+  - first:
+      213: 1166965357633159057
+    second: WhipBasicDuck1
+  - first:
+      213: -6498604773358631622
+    second: WhipBasicDuck2
+  - first:
+      213: 4006912311602457622
+    second: WhipBasicDuck3
+  - first:
+      213: -1445466657573610470
+    second: WhipBasicDuck4
+  - first:
+      213: -8521085766082260107
+    second: WhipBasicDuck5
+  - first:
+      213: -2860488075431594341
+    second: NES - Castlevania - Simon Belmont(1)_237
+  - first:
+      213: 5012522758971105016
+    second: NES - Castlevania - Simon Belmont(1)_238
+  - first:
+      213: 6041673476139180306
+    second: NES - Castlevania - Simon Belmont(1)_239
+  - first:
+      213: -5493389792512017595
+    second: NES - Castlevania - Simon Belmont(1)_240
+  - first:
+      213: 4369438945175699677
+    second: NES - Castlevania - Simon Belmont(1)_241
+  - first:
+      213: 2811961632253161264
+    second: NES - Castlevania - Simon Belmont(1)_242
+  - first:
+      213: 2289388625512093297
+    second: NES - Castlevania - Simon Belmont(1)_243
+  - first:
+      213: 5577114409774175740
+    second: NES - Castlevania - Simon Belmont(1)_244
+  - first:
+      213: -1534822749096730279
+    second: NES - Castlevania - Simon Belmont(1)_245
+  - first:
+      213: -2783274915176479171
+    second: NES - Castlevania - Simon Belmont(1)_246
+  - first:
+      213: 6266197719063185105
+    second: NES - Castlevania - Simon Belmont(1)_247
+  - first:
+      213: 6692032831649851760
+    second: NES - Castlevania - Simon Belmont(1)_248
+  - first:
+      213: -847047972383918070
+    second: NES - Castlevania - Simon Belmont(1)_249
+  - first:
+      213: 8937552138873458785
+    second: NES - Castlevania - Simon Belmont(1)_250
+  - first:
+      213: 9198320438011144328
+    second: NES - Castlevania - Simon Belmont(1)_251
+  - first:
+      213: 6784089861469885148
+    second: NES - Castlevania - Simon Belmont(1)_252
+  - first:
+      213: 3850838400436866210
+    second: NES - Castlevania - Simon Belmont(1)_253
+  - first:
+      213: 4215181204322746559
+    second: NES - Castlevania - Simon Belmont(1)_254
+  - first:
+      213: 375688001949444616
+    second: NES - Castlevania - Simon Belmont(1)_255
+  - first:
+      213: -6697506211325935454
+    second: NES - Castlevania - Simon Belmont(1)_256
+  - first:
+      213: 3155216239748939133
+    second: NES - Castlevania - Simon Belmont(1)_257
+  - first:
+      213: -6583810830119875939
+    second: NES - Castlevania - Simon Belmont(1)_258
+  - first:
+      213: -8658337319029308475
+    second: NES - Castlevania - Simon Belmont(1)_259
+  - first:
+      213: -5094004630061565341
+    second: NES - Castlevania - Simon Belmont(1)_260
+  - first:
+      213: -7538911621218017199
+    second: NES - Castlevania - Simon Belmont(1)_261
+  - first:
+      213: -8890659207141686688
+    second: NES - Castlevania - Simon Belmont(1)_262
+  - first:
+      213: -6651523720614017268
+    second: NES - Castlevania - Simon Belmont(1)_263
+  - first:
+      213: 6253588265687958844
+    second: NES - Castlevania - Simon Belmont(1)_264
+  - first:
+      213: -343830038469178409
+    second: NES - Castlevania - Simon Belmont(1)_265
+  - first:
+      213: 7843816777342393639
+    second: NES - Castlevania - Simon Belmont(1)_266
+  - first:
+      213: 8922897313556265028
+    second: NES - Castlevania - Simon Belmont(1)_267
+  - first:
+      213: 2296854845525802281
+    second: NES - Castlevania - Simon Belmont(1)_268
+  - first:
+      213: -6783982660504193478
+    second: NES - Castlevania - Simon Belmont(1)_269
+  - first:
+      213: -7962437698897916103
+    second: NES - Castlevania - Simon Belmont(1)_270
+  - first:
+      213: -7761046508247813371
+    second: NES - Castlevania - Simon Belmont(1)_271
+  - first:
+      213: 7865213834323102812
+    second: NES - Castlevania - Simon Belmont(1)_272
+  - first:
+      213: 3393512601719211106
+    second: NES - Castlevania - Simon Belmont(1)_273
+  - first:
+      213: 6557270716936570747
+    second: NES - Castlevania - Simon Belmont(1)_274
+  - first:
+      213: -848694623585238511
+    second: NES - Castlevania - Simon Belmont(1)_275
+  - first:
+      213: 6760794198660927947
+    second: NES - Castlevania - Simon Belmont(1)_276
+  - first:
+      213: -4019733199522603934
+    second: NES - Castlevania - Simon Belmont(1)_277
+  - first:
+      213: -4879923793508733681
+    second: NES - Castlevania - Simon Belmont(1)_278
+  - first:
+      213: 8719912022904256110
+    second: NES - Castlevania - Simon Belmont(1)_279
+  - first:
+      213: -3036473124288432157
+    second: NES - Castlevania - Simon Belmont(1)_280
+  - first:
+      213: 8636621795041099765
+    second: NES - Castlevania - Simon Belmont(1)_281
+  - first:
+      213: 1873075377491582642
+    second: NES - Castlevania - Simon Belmont(1)_282
+  - first:
+      213: -1090847107303315570
+    second: NES - Castlevania - Simon Belmont(1)_283
+  - first:
+      213: 6031018377294549245
+    second: NES - Castlevania - Simon Belmont(1)_284
+  - first:
+      213: -4637534380766916711
+    second: NES - Castlevania - Simon Belmont(1)_285
+  - first:
+      213: -625211207732844735
+    second: NES - Castlevania - Simon Belmont(1)_286
+  - first:
+      213: 5118215618390076504
+    second: NES - Castlevania - Simon Belmont(1)_287
+  - first:
+      213: 4286238427763146283
+    second: NES - Castlevania - Simon Belmont(1)_288
+  - first:
+      213: -6086156399257236542
+    second: NES - Castlevania - Simon Belmont(1)_289
+  - first:
+      213: -3551515104509551426
+    second: NES - Castlevania - Simon Belmont(1)_290
+  - first:
+      213: -7866422624748537357
+    second: NES - Castlevania - Simon Belmont(1)_291
+  - first:
+      213: -1302291383447682708
+    second: NES - Castlevania - Simon Belmont(1)_292
+  - first:
+      213: -8613262902623525702
+    second: NES - Castlevania - Simon Belmont(1)_293
+  - first:
+      213: 57164214976467092
+    second: NES - Castlevania - Simon Belmont(1)_294
+  - first:
+      213: -994957755754782607
+    second: NES - Castlevania - Simon Belmont(1)_295
+  - first:
+      213: 6945045989166539982
+    second: NES - Castlevania - Simon Belmont(1)_296
+  - first:
+      213: -7139145413796598942
+    second: NES - Castlevania - Simon Belmont(1)_297
+  - first:
+      213: -8663398429195433509
+    second: NES - Castlevania - Simon Belmont(1)_298
+  - first:
+      213: -4374940516557720510
+    second: NES - Castlevania - Simon Belmont(1)_299
+  - first:
+      213: -3250902204469494190
+    second: NES - Castlevania - Simon Belmont(1)_300
+  - first:
+      213: 315848454172609492
+    second: NES - Castlevania - Simon Belmont(1)_301
+  - first:
+      213: 8765927270856471049
+    second: NES - Castlevania - Simon Belmont(1)_302
+  - first:
+      213: 3544000333368076124
+    second: NES - Castlevania - Simon Belmont(1)_303
+  - first:
+      213: -4799420547677211568
+    second: NES - Castlevania - Simon Belmont(1)_304
+  - first:
+      213: 7445213959265289604
+    second: NES - Castlevania - Simon Belmont(1)_305
+  - first:
+      213: -7868744412911542215
+    second: NES - Castlevania - Simon Belmont(1)_306
+  - first:
+      213: 2840972645195523777
+    second: NES - Castlevania - Simon Belmont(1)_307
+  - first:
+      213: 2917246906237476069
+    second: NES - Castlevania - Simon Belmont(1)_308
+  - first:
+      213: -4392731551342256503
+    second: WhipStrong1
+  - first:
+      213: 5528209226357151132
+    second: WhipStrong2
+  - first:
+      213: -6205037715566926062
+    second: WhipStrong3
+  - first:
+      213: 4052779150950979349
+    second: WhipStrong4
+  - first:
+      213: -5131146979087792480
+    second: WhipStrong5
+  - first:
+      213: 3837806586486345108
+    second: WhipStrongDuck1
+  - first:
+      213: 1169112844351245874
+    second: WhipStrongDuck2
+  - first:
+      213: -8160675967283172542
+    second: WhipStrongDuck3
+  - first:
+      213: 3829156692795178135
+    second: WhipStrongDuck4
+  - first:
+      213: 4758930310256686090
+    second: WhipStrongDuck5
+  - first:
+      213: -3133773968075945531
+    second: NES - Castlevania - Simon Belmont(1)_319
+  - first:
+      213: -379603796012492777
+    second: NES - Castlevania - Simon Belmont(1)_320
+  - first:
+      213: -3275276903344474761
+    second: NES - Castlevania - Simon Belmont(1)_321
+  - first:
+      213: -7088389610419413075
+    second: NES - Castlevania - Simon Belmont(1)_322
+  - first:
+      213: -4294165381997106948
+    second: NES - Castlevania - Simon Belmont(1)_323
+  - first:
+      213: -9037937786853677538
+    second: NES - Castlevania - Simon Belmont(1)_324
+  - first:
+      213: -8135873093881611459
+    second: NES - Castlevania - Simon Belmont(1)_325
+  - first:
+      213: 9199723996796263279
+    second: NES - Castlevania - Simon Belmont(1)_326
+  - first:
+      213: 188356196574356863
+    second: NES - Castlevania - Simon Belmont(1)_327
+  - first:
+      213: -6173032142391230056
+    second: NES - Castlevania - Simon Belmont(1)_328
+  - first:
+      213: 4259401610666368723
+    second: NES - Castlevania - Simon Belmont(1)_329
+  - first:
+      213: 4116269611287771916
+    second: NES - Castlevania - Simon Belmont(1)_330
+  - first:
+      213: 8195850670906233430
+    second: NES - Castlevania - Simon Belmont(1)_331
+  - first:
+      213: 4391583969970527378
+    second: NES - Castlevania - Simon Belmont(1)_332
+  - first:
+      213: -1226086781441171847
+    second: NES - Castlevania - Simon Belmont(1)_333
+  - first:
+      213: -6209670993807233195
+    second: NES - Castlevania - Simon Belmont(1)_334
+  - first:
+      213: 5384083696855493377
+    second: NES - Castlevania - Simon Belmont(1)_335
+  - first:
+      213: 1935909076456653191
+    second: NES - Castlevania - Simon Belmont(1)_336
+  - first:
+      213: 2923335411094907854
+    second: NES - Castlevania - Simon Belmont(1)_337
+  - first:
+      213: -8220159806569610568
+    second: NES - Castlevania - Simon Belmont(1)_338
+  - first:
+      213: 4511055217583796889
+    second: NES - Castlevania - Simon Belmont(1)_339
+  - first:
+      213: -3585845633178305246
+    second: NES - Castlevania - Simon Belmont(1)_340
+  - first:
+      213: -79330635759745914
+    second: NES - Castlevania - Simon Belmont(1)_341
+  - first:
+      213: 3354239566621386311
+    second: NES - Castlevania - Simon Belmont(1)_342
+  - first:
+      213: -8316283137902561533
+    second: NES - Castlevania - Simon Belmont(1)_343
+  - first:
+      213: -5774094585266823522
+    second: NES - Castlevania - Simon Belmont(1)_344
+  - first:
+      213: -4971688612900407361
+    second: NES - Castlevania - Simon Belmont(1)_345
+  - first:
+      213: 8339728649585964236
+    second: NES - Castlevania - Simon Belmont(1)_346
+  - first:
+      213: -922218314416861640
+    second: NES - Castlevania - Simon Belmont(1)_347
+  - first:
+      213: 5485002932269572526
+    second: NES - Castlevania - Simon Belmont(1)_348
+  - first:
+      213: 6201933864085877801
+    second: NES - Castlevania - Simon Belmont(1)_349
+  - first:
+      213: 4721376141864089363
+    second: NES - Castlevania - Simon Belmont(1)_350
+  - first:
+      213: 2322450269039326888
+    second: NES - Castlevania - Simon Belmont(1)_351
+  - first:
+      213: 7126786925462046923
+    second: NES - Castlevania - Simon Belmont(1)_352
+  - first:
+      213: 6197896016586592851
+    second: NES - Castlevania - Simon Belmont(1)_353
+  - first:
+      213: -3110356708323670373
+    second: NES - Castlevania - Simon Belmont(1)_354
+  - first:
+      213: 2466967427646500634
+    second: NES - Castlevania - Simon Belmont(1)_355
+  - first:
+      213: -829995822805166190
+    second: NES - Castlevania - Simon Belmont(1)_356
+  - first:
+      213: -4052274735252673263
+    second: NES - Castlevania - Simon Belmont(1)_357
+  - first:
+      213: -7887418994540386839
+    second: NES - Castlevania - Simon Belmont(1)_358
+  - first:
+      213: -7608097452762704225
+    second: NES - Castlevania - Simon Belmont(1)_359
+  - first:
+      213: -653371792156429280
+    second: NES - Castlevania - Simon Belmont(1)_360
+  - first:
+      213: -4393504674646744737
+    second: NES - Castlevania - Simon Belmont(1)_361
+  - first:
+      213: 7160150074856575219
+    second: NES - Castlevania - Simon Belmont(1)_362
+  - first:
+      213: -5069416936392918056
+    second: NES - Castlevania - Simon Belmont(1)_363
+  - first:
+      213: 6808365089886128304
+    second: NES - Castlevania - Simon Belmont(1)_364
+  - first:
+      213: -9166683300947287009
+    second: NES - Castlevania - Simon Belmont(1)_365
+  - first:
+      213: 5633355783338383628
+    second: NES - Castlevania - Simon Belmont(1)_366
+  - first:
+      213: 494005553475994305
+    second: NES - Castlevania - Simon Belmont(1)_367
+  - first:
+      213: -5618209904901614329
+    second: NES - Castlevania - Simon Belmont(1)_368
+  - first:
+      213: 1753351863081801656
+    second: NES - Castlevania - Simon Belmont(1)_369
+  - first:
+      213: 764527796120268401
+    second: NES - Castlevania - Simon Belmont(1)_370
+  - first:
+      213: -4784718574987444592
+    second: NES - Castlevania - Simon Belmont(1)_371
+  - first:
+      213: -2534837564977047780
+    second: NES - Castlevania - Simon Belmont(1)_372
+  - first:
+      213: 6692397143566308646
+    second: NES - Castlevania - Simon Belmont(1)_373
+  - first:
+      213: 1078658757944358105
+    second: NES - Castlevania - Simon Belmont(1)_374
+  - first:
+      213: -3739831503306041087
+    second: NES - Castlevania - Simon Belmont(1)_375
+  - first:
+      213: 7304844380368084859
+    second: NES - Castlevania - Simon Belmont(1)_376
+  - first:
+      213: -6934031954338398712
+    second: NES - Castlevania - Simon Belmont(1)_377
+  - first:
+      213: 875259278695936623
+    second: NES - Castlevania - Simon Belmont(1)_378
+  - first:
+      213: 4701538801200652512
+    second: NES - Castlevania - Simon Belmont(1)_379
+  - first:
+      213: 6748056313313660460
+    second: NES - Castlevania - Simon Belmont(1)_380
+  - first:
+      213: 8413532274185100762
+    second: NES - Castlevania - Simon Belmont(1)_381
+  - first:
+      213: 1482384841405279764
+    second: NES - Castlevania - Simon Belmont(1)_382
+  - first:
+      213: 502582269884277176
+    second: NES - Castlevania - Simon Belmont(1)_383
+  - first:
+      213: -6858271153639657245
+    second: NES - Castlevania - Simon Belmont(1)_384
+  - first:
+      213: 3940850626808894803
+    second: NES - Castlevania - Simon Belmont(1)_385
+  - first:
+      213: -8083840874110603826
+    second: NES - Castlevania - Simon Belmont(1)_386
+  - first:
+      213: 4651292660717495623
+    second: NES - Castlevania - Simon Belmont(1)_387
+  - first:
+      213: 908962797602981156
+    second: NES - Castlevania - Simon Belmont(1)_388
+  - first:
+      213: -6568147390341694084
+    second: NES - Castlevania - Simon Belmont(1)_389
+  - first:
+      213: -3860771888946165616
+    second: NES - Castlevania - Simon Belmont(1)_390
+  - first:
+      213: -7768015249900539740
+    second: NES - Castlevania - Simon Belmont(1)_391
+  - first:
+      213: -2575501573320350730
+    second: NES - Castlevania - Simon Belmont(1)_392
+  - first:
+      213: -1319879245960961803
+    second: NES - Castlevania - Simon Belmont(1)_393
+  - first:
+      213: 5035596976159467156
+    second: NES - Castlevania - Simon Belmont(1)_394
+  - first:
+      213: 994498650847762281
+    second: NES - Castlevania - Simon Belmont(1)_395
+  - first:
+      213: 2229580434663371636
+    second: NES - Castlevania - Simon Belmont(1)_396
+  - first:
+      213: -3170430023167623313
+    second: NES - Castlevania - Simon Belmont(1)_397
+  - first:
+      213: -9022418434664042459
+    second: NES - Castlevania - Simon Belmont(1)_398
+  - first:
+      213: -3772009579535718669
+    second: NES - Castlevania - Simon Belmont(1)_399
+  - first:
+      213: 6011822272999859013
+    second: NES - Castlevania - Simon Belmont(1)_400
+  - first:
+      213: -7753836238911575597
+    second: NES - Castlevania - Simon Belmont(1)_401
+  - first:
+      213: 1838635151256553864
+    second: NES - Castlevania - Simon Belmont(1)_402
+  - first:
+      213: 5746118347203252832
+    second: NES - Castlevania - Simon Belmont(1)_403
+  - first:
+      213: -8979573167948678026
+    second: NES - Castlevania - Simon Belmont(1)_404
+  - first:
+      213: 4573409596873495896
+    second: NES - Castlevania - Simon Belmont(1)_405
+  - first:
+      213: 4135861650240764842
+    second: NES - Castlevania - Simon Belmont(1)_406
+  - first:
+      213: 5725932516825791442
+    second: NES - Castlevania - Simon Belmont(1)_407
+  - first:
+      213: 5121551419140178092
+    second: NES - Castlevania - Simon Belmont(1)_408
+  - first:
+      213: -897611564437360974
+    second: NES - Castlevania - Simon Belmont(1)_409
+  - first:
+      213: 3324025732076430453
+    second: NES - Castlevania - Simon Belmont(1)_410
+  - first:
+      213: 5052746929298197804
+    second: NES - Castlevania - Simon Belmont(1)_411
+  - first:
+      213: -2899896921974297903
+    second: NES - Castlevania - Simon Belmont(1)_412
+  - first:
+      213: -4404457940153480766
+    second: NES - Castlevania - Simon Belmont(1)_413
+  - first:
+      213: 6835011238185984609
+    second: NES - Castlevania - Simon Belmont(1)_414
+  - first:
+      213: -4708714012661808475
+    second: NES - Castlevania - Simon Belmont(1)_415
+  - first:
+      213: 8779115382376339861
+    second: NES - Castlevania - Simon Belmont(1)_416
+  - first:
+      213: -524215502554401537
+    second: NES - Castlevania - Simon Belmont(1)_417
+  - first:
+      213: -8153492624377086246
+    second: NES - Castlevania - Simon Belmont(1)_418
+  - first:
+      213: 3059651573400052341
+    second: NES - Castlevania - Simon Belmont(1)_419
+  - first:
+      213: -7057949090975306799
+    second: NES - Castlevania - Simon Belmont(1)_420
+  - first:
+      213: -3500459502667919356
+    second: NES - Castlevania - Simon Belmont(1)_421
+  - first:
+      213: -1537233928531396736
+    second: NES - Castlevania - Simon Belmont(1)_422
+  - first:
+      213: 3952396353255628624
+    second: NES - Castlevania - Simon Belmont(1)_423
+  - first:
+      213: -6839923773830231787
+    second: NES - Castlevania - Simon Belmont(1)_424
+  - first:
+      213: -4552977772782193778
+    second: NES - Castlevania - Simon Belmont(1)_425
+  - first:
+      213: -3164960765819450953
+    second: NES - Castlevania - Simon Belmont(1)_426
+  - first:
+      213: -3869830369361019884
+    second: NES - Castlevania - Simon Belmont(1)_427
+  - first:
+      213: 3587745068507336061
+    second: NES - Castlevania - Simon Belmont(1)_428
+  - first:
+      213: -6904212873982713645
+    second: NES - Castlevania - Simon Belmont(1)_429
+  - first:
+      213: -5155213027374029965
+    second: NES - Castlevania - Simon Belmont(1)_430
+  - first:
+      213: -5329162142267404586
+    second: NES - Castlevania - Simon Belmont(1)_431
+  - first:
+      213: -1033379063219716272
+    second: NES - Castlevania - Simon Belmont(1)_432
+  - first:
+      213: -8965487743167574919
+    second: NES - Castlevania - Simon Belmont(1)_433
+  - first:
+      213: -6929795088790270742
+    second: NES - Castlevania - Simon Belmont(1)_434
+  - first:
+      213: 1506657497895152134
+    second: NES - Castlevania - Simon Belmont(1)_435
+  - first:
+      213: -837885852676516054
+    second: NES - Castlevania - Simon Belmont(1)_436
+  - first:
+      213: 699641920961966551
+    second: NES - Castlevania - Simon Belmont(1)_437
+  - first:
+      213: -3033059450485528116
+    second: NES - Castlevania - Simon Belmont(1)_438
+  - first:
+      213: -8397145311520307427
+    second: NES - Castlevania - Simon Belmont(1)_439
+  - first:
+      213: 7858212717781277961
+    second: NES - Castlevania - Simon Belmont(1)_440
+  - first:
+      213: 1152198619759973915
+    second: NES - Castlevania - Simon Belmont(1)_441
+  - first:
+      213: 2775811519985068028
+    second: NES - Castlevania - Simon Belmont(1)_442
+  - first:
+      213: -2577978817343313573
+    second: NES - Castlevania - Simon Belmont(1)_443
+  - first:
+      213: -6647922392703233086
+    second: NES - Castlevania - Simon Belmont(1)_444
+  - first:
+      213: 1855893445542091449
+    second: NES - Castlevania - Simon Belmont(1)_445
+  - first:
+      213: -922417680545588170
+    second: NES - Castlevania - Simon Belmont(1)_446
+  - first:
+      213: -7742169741707899408
+    second: NES - Castlevania - Simon Belmont(1)_447
+  - first:
+      213: -2250614356963462286
+    second: NES - Castlevania - Simon Belmont(1)_448
+  - first:
+      213: 2357124835170842230
+    second: NES - Castlevania - Simon Belmont(1)_449
+  - first:
+      213: 3808946984481244269
+    second: NES - Castlevania - Simon Belmont(1)_450
+  - first:
+      213: 2457427692286485314
+    second: NES - Castlevania - Simon Belmont(1)_451
+  - first:
+      213: -8889184905113163997
+    second: NES - Castlevania - Simon Belmont(1)_452
+  - first:
+      213: -6058674070127010868
+    second: NES - Castlevania - Simon Belmont(1)_453
+  - first:
+      213: 3802882369845836848
+    second: NES - Castlevania - Simon Belmont(1)_454
+  - first:
+      213: -7907772286891197319
+    second: NES - Castlevania - Simon Belmont(1)_455
+  - first:
+      213: -2859117058802349585
+    second: NES - Castlevania - Simon Belmont(1)_456
+  - first:
+      213: -1298155978670727796
+    second: NES - Castlevania - Simon Belmont(1)_457
+  - first:
+      213: 5231044529932144996
+    second: NES - Castlevania - Simon Belmont(1)_458
+  - first:
+      213: -5980661736716389363
+    second: NES - Castlevania - Simon Belmont(1)_459
+  - first:
+      213: 6093867154202566822
+    second: NES - Castlevania - Simon Belmont(1)_460
+  - first:
+      213: -856797414311958000
+    second: NES - Castlevania - Simon Belmont(1)_461
+  - first:
+      213: -3701717215212598010
+    second: NES - Castlevania - Simon Belmont(1)_462
+  - first:
+      213: -7466300756616498496
+    second: NES - Castlevania - Simon Belmont(1)_463
+  - first:
+      213: 3876122883009057081
+    second: NES - Castlevania - Simon Belmont(1)_464
+  - first:
+      213: -3349436380636708388
+    second: NES - Castlevania - Simon Belmont(1)_465
+  - first:
+      213: 4330991579016371464
+    second: NES - Castlevania - Simon Belmont(1)_466
+  - first:
+      213: -3536501327434223820
+    second: NES - Castlevania - Simon Belmont(1)_467
+  - first:
+      213: 1883547140863150078
+    second: NES - Castlevania - Simon Belmont(1)_468
+  - first:
+      213: -476767211607291330
+    second: NES - Castlevania - Simon Belmont(1)_469
+  - first:
+      213: 7709159314909442975
+    second: NES - Castlevania - Simon Belmont(1)_470
+  - first:
+      213: -3321044045109640100
+    second: NES - Castlevania - Simon Belmont(1)_471
+  - first:
+      213: -8852773098607087269
+    second: NES - Castlevania - Simon Belmont(1)_472
+  - first:
+      213: -2008679969808072227
+    second: NES - Castlevania - Simon Belmont(1)_473
+  - first:
+      213: 3721183732709571378
+    second: NES - Castlevania - Simon Belmont(1)_474
+  - first:
+      213: 3529758651018117579
+    second: NES - Castlevania - Simon Belmont(1)_475
+  - first:
+      213: -7593581603540333417
+    second: NES - Castlevania - Simon Belmont(1)_476
+  - first:
+      213: 8496202295893725248
+    second: NES - Castlevania - Simon Belmont(1)_477
+  - first:
+      213: 2673643925226199052
+    second: NES - Castlevania - Simon Belmont(1)_478
+  - first:
+      213: -5096159682461688538
+    second: NES - Castlevania - Simon Belmont(1)_479
+  - first:
+      213: 1648095166224174284
+    second: NES - Castlevania - Simon Belmont(1)_480
+  - first:
+      213: -74443334404408818
+    second: NES - Castlevania - Simon Belmont(1)_481
+  - first:
+      213: 37607844759896895
+    second: NES - Castlevania - Simon Belmont(1)_482
+  - first:
+      213: 6399791296400628235
+    second: NES - Castlevania - Simon Belmont(1)_483
+  - first:
+      213: -7576058123296774280
+    second: NES - Castlevania - Simon Belmont(1)_484
+  - first:
+      213: 5543923037281834970
+    second: NES - Castlevania - Simon Belmont(1)_485
+  - first:
+      213: 6308486062584635495
+    second: NES - Castlevania - Simon Belmont(1)_486
+  - first:
+      213: 4352592250607688624
+    second: NES - Castlevania - Simon Belmont(1)_487
+  - first:
+      213: -2785728917105827697
+    second: NES - Castlevania - Simon Belmont(1)_488
+  - first:
+      213: -117925548744730493
+    second: NES - Castlevania - Simon Belmont(1)_489
+  - first:
+      213: -8178361774004640859
+    second: NES - Castlevania - Simon Belmont(1)_490
+  - first:
+      213: 5304829959775496088
+    second: NES - Castlevania - Simon Belmont(1)_491
+  - first:
+      213: 2132180998282658736
+    second: NES - Castlevania - Simon Belmont(1)_492
+  - first:
+      213: 4745167976072653908
+    second: NES - Castlevania - Simon Belmont(1)_493
+  - first:
+      213: -3213529795397163334
+    second: NES - Castlevania - Simon Belmont(1)_494
+  - first:
+      213: -7955481807409424718
+    second: NES - Castlevania - Simon Belmont(1)_495
+  - first:
+      213: -3162385952996320850
+    second: NES - Castlevania - Simon Belmont(1)_496
+  - first:
+      213: -71973432181331211
+    second: NES - Castlevania - Simon Belmont(1)_497
+  - first:
+      213: 1864393128438002382
+    second: NES - Castlevania - Simon Belmont(1)_498
+  - first:
+      213: 6093880079020548232
+    second: NES - Castlevania - Simon Belmont(1)_499
+  - first:
+      213: 5133094548128557329
+    second: NES - Castlevania - Simon Belmont(1)_500
+  - first:
+      213: 543199926658788215
+    second: NES - Castlevania - Simon Belmont(1)_501
+  - first:
+      213: -5270664945815714136
+    second: NES - Castlevania - Simon Belmont(1)_502
+  - first:
+      213: 5282175219998905674
+    second: NES - Castlevania - Simon Belmont(1)_503
+  - first:
+      213: -8328144641939361320
+    second: NES - Castlevania - Simon Belmont(1)_504
+  - first:
+      213: 5298500534508877380
+    second: NES - Castlevania - Simon Belmont(1)_505
+  - first:
+      213: -5911613266736466234
+    second: NES - Castlevania - Simon Belmont(1)_506
+  - first:
+      213: -2722543078432283724
+    second: NES - Castlevania - Simon Belmont(1)_507
+  - first:
+      213: -9103788085790490303
+    second: NES - Castlevania - Simon Belmont(1)_508
+  - first:
+      213: 1068205251299668161
+    second: NES - Castlevania - Simon Belmont(1)_509
+  - first:
+      213: 8543073873264315173
+    second: NES - Castlevania - Simon Belmont(1)_510
+  - first:
+      213: 5394860275016884684
+    second: NES - Castlevania - Simon Belmont(1)_511
+  - first:
+      213: 5441896921544537736
+    second: NES - Castlevania - Simon Belmont(1)_512
+  - first:
+      213: -330543834197363036
+    second: NES - Castlevania - Simon Belmont(1)_513
+  - first:
+      213: -3341654474198992025
+    second: NES - Castlevania - Simon Belmont(1)_514
+  - first:
+      213: 6597750825642815462
+    second: NES - Castlevania - Simon Belmont(1)_515
+  - first:
+      213: -1845926290076328594
+    second: NES - Castlevania - Simon Belmont(1)_516
+  - first:
+      213: -146353907651654669
+    second: NES - Castlevania - Simon Belmont(1)_517
+  - first:
+      213: 5310972268182365089
+    second: NES - Castlevania - Simon Belmont(1)_518
+  - first:
+      213: -8103299838470682449
+    second: NES - Castlevania - Simon Belmont(1)_519
+  - first:
+      213: -8645626327045242480
+    second: NES - Castlevania - Simon Belmont(1)_520
+  - first:
+      213: 8048027594893297396
+    second: NES - Castlevania - Simon Belmont(1)_521
+  - first:
+      213: -1184883465848798624
+    second: NES - Castlevania - Simon Belmont(1)_522
+  - first:
+      213: 148881709513312976
+    second: NES - Castlevania - Simon Belmont(1)_523
+  - first:
+      213: 3363498771384559707
+    second: NES - Castlevania - Simon Belmont(1)_524
+  - first:
+      213: 9139974328901434864
+    second: NES - Castlevania - Simon Belmont(1)_525
+  - first:
+      213: 1437724685570250970
+    second: NES - Castlevania - Simon Belmont(1)_526
+  - first:
+      213: 8570636919935717545
+    second: NES - Castlevania - Simon Belmont(1)_527
+  - first:
+      213: -7936955684383625065
+    second: NES - Castlevania - Simon Belmont(1)_528
+  - first:
+      213: 5418826073081575145
+    second: NES - Castlevania - Simon Belmont(1)_529
+  - first:
+      213: -8453474993498310704
+    second: NES - Castlevania - Simon Belmont(1)_530
+  - first:
+      213: -6480927679399940452
+    second: NES - Castlevania - Simon Belmont(1)_531
+  - first:
+      213: 6771283291495223093
+    second: NES - Castlevania - Simon Belmont(1)_532
+  - first:
+      213: 5942267037332057168
+    second: NES - Castlevania - Simon Belmont(1)_533
+  - first:
+      213: -3402387168713469625
+    second: NES - Castlevania - Simon Belmont(1)_534
+  - first:
+      213: -4565189666021331595
+    second: NES - Castlevania - Simon Belmont(1)_535
+  - first:
+      213: -7915013087536428319
+    second: NES - Castlevania - Simon Belmont(1)_536
+  - first:
+      213: -1247538103131252212
+    second: NES - Castlevania - Simon Belmont(1)_537
+  - first:
+      213: -1743032797004673808
+    second: NES - Castlevania - Simon Belmont(1)_538
+  - first:
+      213: 7088903333617001854
+    second: NES - Castlevania - Simon Belmont(1)_539
+  - first:
+      213: 525823131133634989
+    second: NES - Castlevania - Simon Belmont(1)_540
+  - first:
+      213: 3339724613656108371
+    second: NES - Castlevania - Simon Belmont(1)_541
+  - first:
+      213: 8740334530446490420
+    second: NES - Castlevania - Simon Belmont(1)_542
+  - first:
+      213: 6093827533292324187
+    second: NES - Castlevania - Simon Belmont(1)_543
+  - first:
+      213: 2729806175439989220
+    second: NES - Castlevania - Simon Belmont(1)_544
+  - first:
+      213: 7754650673787348047
+    second: NES - Castlevania - Simon Belmont(1)_545
+  - first:
+      213: -7113462664134927533
+    second: NES - Castlevania - Simon Belmont(1)_546
+  - first:
+      213: 2083297727830062496
+    second: NES - Castlevania - Simon Belmont(1)_547
+  - first:
+      213: 4066976991644796744
+    second: NES - Castlevania - Simon Belmont(1)_548
+  - first:
+      213: 2418859517264102669
+    second: NES - Castlevania - Simon Belmont(1)_549
+  - first:
+      213: -1099155716539006221
+    second: NES - Castlevania - Simon Belmont(1)_550
+  - first:
+      213: -1741574247276886127
+    second: NES - Castlevania - Simon Belmont(1)_551
+  - first:
+      213: 4107410755691670004
+    second: NES - Castlevania - Simon Belmont(1)_552
+  - first:
+      213: -7784033070226364538
+    second: NES - Castlevania - Simon Belmont(1)_553
+  - first:
+      213: -8331730850760128285
+    second: NES - Castlevania - Simon Belmont(1)_554
+  - first:
+      213: 6872623872111582244
+    second: NES - Castlevania - Simon Belmont(1)_555
+  - first:
+      213: -8858524841460026186
+    second: NES - Castlevania - Simon Belmont(1)_556
+  - first:
+      213: -6618584126875350955
+    second: NES - Castlevania - Simon Belmont(1)_557
+  - first:
+      213: -2133009545180419601
+    second: NES - Castlevania - Simon Belmont(1)_558
+  - first:
+      213: 1657201166829612402
+    second: NES - Castlevania - Simon Belmont(1)_559
+  - first:
+      213: -7708291964336950809
+    second: NES - Castlevania - Simon Belmont(1)_560
+  - first:
+      213: 1160732800233500973
+    second: NES - Castlevania - Simon Belmont(1)_561
+  - first:
+      213: 2738995886956857273
+    second: NES - Castlevania - Simon Belmont(1)_562
+  - first:
+      213: 2845696925009604504
+    second: NES - Castlevania - Simon Belmont(1)_563
+  - first:
+      213: -2512259479708439071
+    second: NES - Castlevania - Simon Belmont(1)_564
+  - first:
+      213: 1041058070385876198
+    second: NES - Castlevania - Simon Belmont(1)_565
+  - first:
+      213: 2574200353580742454
+    second: NES - Castlevania - Simon Belmont(1)_566
+  - first:
+      213: -8222179261645775231
+    second: NES - Castlevania - Simon Belmont(1)_567
+  - first:
+      213: -2657412554279916486
+    second: NES - Castlevania - Simon Belmont(1)_568
+  - first:
+      213: -538142494986099815
+    second: NES - Castlevania - Simon Belmont(1)_569
+  - first:
+      213: 4462882253865440165
+    second: NES - Castlevania - Simon Belmont(1)_570
+  - first:
+      213: 953536973620851280
+    second: NES - Castlevania - Simon Belmont(1)_571
+  - first:
+      213: 1367458057416018863
+    second: NES - Castlevania - Simon Belmont(1)_572
+  - first:
+      213: 2629496988042247353
+    second: NES - Castlevania - Simon Belmont(1)_573
+  - first:
+      213: -448212750757375427
+    second: NES - Castlevania - Simon Belmont(1)_574
+  - first:
+      213: -5099271502287558191
+    second: NES - Castlevania - Simon Belmont(1)_575
+  - first:
+      213: 5429236738177424402
+    second: NES - Castlevania - Simon Belmont(1)_576
+  - first:
+      213: -2853376459905783878
+    second: NES - Castlevania - Simon Belmont(1)_577
+  - first:
+      213: -1625034643254047855
+    second: NES - Castlevania - Simon Belmont(1)_578
+  - first:
+      213: 2444598910464182988
+    second: NES - Castlevania - Simon Belmont(1)_579
+  - first:
+      213: 584336536683390212
+    second: NES - Castlevania - Simon Belmont(1)_580
+  - first:
+      213: 8709589704488592451
+    second: NES - Castlevania - Simon Belmont(1)_581
+  - first:
+      213: -3111813774198659697
+    second: NES - Castlevania - Simon Belmont(1)_582
+  - first:
+      213: 3955319766453911946
+    second: NES - Castlevania - Simon Belmont(1)_583
+  - first:
+      213: 33161210220232478
+    second: NES - Castlevania - Simon Belmont(1)_584
+  - first:
+      213: -2429077992476513461
+    second: NES - Castlevania - Simon Belmont(1)_585
+  - first:
+      213: -8560629251890089752
+    second: NES - Castlevania - Simon Belmont(1)_586
+  - first:
+      213: 3110134001127533540
+    second: NES - Castlevania - Simon Belmont(1)_587
+  - first:
+      213: 4339408977973441526
+    second: NES - Castlevania - Simon Belmont(1)_588
+  - first:
+      213: 2860907289778608078
+    second: NES - Castlevania - Simon Belmont(1)_589
+  - first:
+      213: -8826433694710393632
+    second: NES - Castlevania - Simon Belmont(1)_590
+  - first:
+      213: 1188406771268126145
+    second: NES - Castlevania - Simon Belmont(1)_591
+  - first:
+      213: 5148269116637540417
+    second: NES - Castlevania - Simon Belmont(1)_592
+  - first:
+      213: -8740748604170797858
+    second: NES - Castlevania - Simon Belmont(1)_593
+  - first:
+      213: -122706843050617298
+    second: NES - Castlevania - Simon Belmont(1)_594
+  - first:
+      213: 3772581099361860529
+    second: NES - Castlevania - Simon Belmont(1)_595
+  - first:
+      213: -8496284259362135581
+    second: NES - Castlevania - Simon Belmont(1)_596
+  - first:
+      213: -4604247447875428235
+    second: NES - Castlevania - Simon Belmont(1)_597
+  - first:
+      213: -5679569014695277739
+    second: NES - Castlevania - Simon Belmont(1)_598
+  - first:
+      213: 6288980559306326087
+    second: NES - Castlevania - Simon Belmont(1)_599
+  - first:
+      213: 8353290896028498612
+    second: NES - Castlevania - Simon Belmont(1)_600
+  - first:
+      213: 1695830328129488716
+    second: NES - Castlevania - Simon Belmont(1)_601
+  - first:
+      213: -4722232217797696879
+    second: NES - Castlevania - Simon Belmont(1)_602
+  - first:
+      213: -1954102439754416772
+    second: NES - Castlevania - Simon Belmont(1)_603
+  - first:
+      213: -1913767289829371421
+    second: NES - Castlevania - Simon Belmont(1)_604
+  - first:
+      213: 1712218730688056231
+    second: NES - Castlevania - Simon Belmont(1)_605
+  - first:
+      213: -1006162281347505867
+    second: NES - Castlevania - Simon Belmont(1)_606
+  - first:
+      213: -8727770617730671279
+    second: NES - Castlevania - Simon Belmont(1)_607
+  - first:
+      213: 1486465948069966877
+    second: NES - Castlevania - Simon Belmont(1)_608
+  - first:
+      213: 198643023535256919
+    second: NES - Castlevania - Simon Belmont(1)_609
+  - first:
+      213: 1090095173307057384
+    second: NES - Castlevania - Simon Belmont(1)_610
+  - first:
+      213: 2547182105555314071
+    second: NES - Castlevania - Simon Belmont(1)_611
+  - first:
+      213: -3057326244936187563
+    second: NES - Castlevania - Simon Belmont(1)_612
+  - first:
+      213: -8628678072593623087
+    second: NES - Castlevania - Simon Belmont(1)_613
+  - first:
+      213: -4846273387286283675
+    second: NES - Castlevania - Simon Belmont(1)_614
+  - first:
+      213: 7726986299561558167
+    second: NES - Castlevania - Simon Belmont(1)_615
+  - first:
+      213: 5135706330380253616
+    second: NES - Castlevania - Simon Belmont(1)_616
+  - first:
+      213: -8136852938182543664
+    second: NES - Castlevania - Simon Belmont(1)_617
+  - first:
+      213: -1186364432573691007
+    second: NES - Castlevania - Simon Belmont(1)_618
+  - first:
+      213: 9160086256946580046
+    second: NES - Castlevania - Simon Belmont(1)_619
+  - first:
+      213: 1782356510356993155
+    second: NES - Castlevania - Simon Belmont(1)_620
+  - first:
+      213: -7745693986453366371
+    second: NES - Castlevania - Simon Belmont(1)_621
+  - first:
+      213: 5265123565200288756
+    second: NES - Castlevania - Simon Belmont(1)_622
+  - first:
+      213: -6967488492498166019
+    second: NES - Castlevania - Simon Belmont(1)_623
+  - first:
+      213: -6033201261968752362
+    second: NES - Castlevania - Simon Belmont(1)_624
+  - first:
+      213: 8618385579657323715
+    second: NES - Castlevania - Simon Belmont(1)_625
+  - first:
+      213: -6209842466736753048
+    second: NES - Castlevania - Simon Belmont(1)_626
+  - first:
+      213: 2767029940776867992
+    second: NES - Castlevania - Simon Belmont(1)_627
+  - first:
+      213: -5669971122393866799
+    second: NES - Castlevania - Simon Belmont(1)_628
+  - first:
+      213: -9015059151948611176
+    second: NES - Castlevania - Simon Belmont(1)_629
+  - first:
+      213: -775735071097654749
+    second: NES - Castlevania - Simon Belmont(1)_630
+  - first:
+      213: 5912942335555513033
+    second: NES - Castlevania - Simon Belmont(1)_631
+  - first:
+      213: -1101717770708225283
+    second: NES - Castlevania - Simon Belmont(1)_632
+  - first:
+      213: -289534597786449948
+    second: NES - Castlevania - Simon Belmont(1)_633
+  - first:
+      213: 7226658375265770076
+    second: NES - Castlevania - Simon Belmont(1)_634
+  - first:
+      213: -1401081748785802689
+    second: NES - Castlevania - Simon Belmont(1)_635
+  - first:
+      213: -7236296453044659750
+    second: NES - Castlevania - Simon Belmont(1)_636
+  - first:
+      213: -8784675850873681507
+    second: NES - Castlevania - Simon Belmont(1)_637
+  - first:
+      213: -2843123380726210743
+    second: NES - Castlevania - Simon Belmont(1)_638
+  - first:
+      213: 5487033146895034517
+    second: NES - Castlevania - Simon Belmont(1)_639
+  - first:
+      213: 667220079145503625
+    second: NES - Castlevania - Simon Belmont(1)_640
+  - first:
+      213: 7505517512077952863
+    second: NES - Castlevania - Simon Belmont(1)_641
+  - first:
+      213: 4298072518553740800
+    second: NES - Castlevania - Simon Belmont(1)_642
+  - first:
+      213: 8231548288951206906
+    second: NES - Castlevania - Simon Belmont(1)_643
+  - first:
+      213: 3121557392673894158
+    second: NES - Castlevania - Simon Belmont(1)_644
+  - first:
+      213: 3247742778389261589
+    second: NES - Castlevania - Simon Belmont(1)_645
+  - first:
+      213: 3922789339419966858
+    second: NES - Castlevania - Simon Belmont(1)_646
+  - first:
+      213: 1898657106446374107
+    second: NES - Castlevania - Simon Belmont(1)_647
+  - first:
+      213: 1794267092154127000
+    second: NES - Castlevania - Simon Belmont(1)_648
+  - first:
+      213: -2959410462884709800
+    second: NES - Castlevania - Simon Belmont(1)_649
+  - first:
+      213: 7535247247767660086
+    second: NES - Castlevania - Simon Belmont(1)_650
+  - first:
+      213: 4192324263633403375
+    second: NES - Castlevania - Simon Belmont(1)_651
+  - first:
+      213: 7877056618422883679
+    second: NES - Castlevania - Simon Belmont(1)_652
+  - first:
+      213: -1099081291629269130
+    second: NES - Castlevania - Simon Belmont(1)_653
+  - first:
+      213: -3223352296363694589
+    second: NES - Castlevania - Simon Belmont(1)_654
+  - first:
+      213: 4081859894952504163
+    second: NES - Castlevania - Simon Belmont(1)_655
+  - first:
+      213: 1772850192496522755
+    second: NES - Castlevania - Simon Belmont(1)_656
+  - first:
+      213: 8966371593585112374
+    second: NES - Castlevania - Simon Belmont(1)_657
+  - first:
+      213: 1791973144979638504
+    second: NES - Castlevania - Simon Belmont(1)_658
+  - first:
+      213: 5753776119397171646
+    second: NES - Castlevania - Simon Belmont(1)_659
+  - first:
+      213: -5573498149909382913
+    second: NES - Castlevania - Simon Belmont(1)_660
+  - first:
+      213: 6353742393598596202
+    second: NES - Castlevania - Simon Belmont(1)_661
+  - first:
+      213: -56293017609864459
+    second: NES - Castlevania - Simon Belmont(1)_662
+  - first:
+      213: -2476278493104391039
+    second: NES - Castlevania - Simon Belmont(1)_663
+  - first:
+      213: 8129833453929797703
+    second: NES - Castlevania - Simon Belmont(1)_664
+  - first:
+      213: 3050486143559603120
+    second: NES - Castlevania - Simon Belmont(1)_665
+  - first:
+      213: -4853121330045215367
+    second: NES - Castlevania - Simon Belmont(1)_666
+  - first:
+      213: 5325776595721193960
+    second: NES - Castlevania - Simon Belmont(1)_667
+  - first:
+      213: -7625701406594161740
+    second: NES - Castlevania - Simon Belmont(1)_668
+  - first:
+      213: -2286763077738911509
+    second: NES - Castlevania - Simon Belmont(1)_669
+  - first:
+      213: -4276732250427207070
+    second: NES - Castlevania - Simon Belmont(1)_670
+  - first:
+      213: 2942573635800728228
+    second: NES - Castlevania - Simon Belmont(1)_671
+  - first:
+      213: 5039737559641598921
+    second: NES - Castlevania - Simon Belmont(1)_672
+  - first:
+      213: 7673911291666858699
+    second: NES - Castlevania - Simon Belmont(1)_673
+  - first:
+      213: 8187549586691951019
+    second: NES - Castlevania - Simon Belmont(1)_674
+  - first:
+      213: -8295202140882599476
+    second: NES - Castlevania - Simon Belmont(1)_675
+  - first:
+      213: 767027030364912429
+    second: NES - Castlevania - Simon Belmont(1)_676
+  - first:
+      213: -8735407915492557739
+    second: NES - Castlevania - Simon Belmont(1)_677
+  - first:
+      213: -7327434809421451427
+    second: NES - Castlevania - Simon Belmont(1)_678
+  - first:
+      213: -4260422899520132531
+    second: NES - Castlevania - Simon Belmont(1)_679
+  - first:
+      213: 2686821818648198048
+    second: NES - Castlevania - Simon Belmont(1)_680
+  - first:
+      213: -845427120692846947
+    second: NES - Castlevania - Simon Belmont(1)_681
+  - first:
+      213: 2455478998514953696
+    second: NES - Castlevania - Simon Belmont(1)_682
+  - first:
+      213: -1614114113803120412
+    second: NES - Castlevania - Simon Belmont(1)_683
+  - first:
+      213: 3597416421157701427
+    second: NES - Castlevania - Simon Belmont(1)_684
+  - first:
+      213: 3356133187090707377
+    second: NES - Castlevania - Simon Belmont(1)_685
+  - first:
+      213: 8043313276058918101
+    second: NES - Castlevania - Simon Belmont(1)_686
+  - first:
+      213: 3524449233797638287
+    second: NES - Castlevania - Simon Belmont(1)_687
+  - first:
+      213: -3150266747404234917
+    second: NES - Castlevania - Simon Belmont(1)_688
+  - first:
+      213: 2362867116723961311
+    second: NES - Castlevania - Simon Belmont(1)_689
+  - first:
+      213: -6792864278798028554
+    second: NES - Castlevania - Simon Belmont(1)_690
+  - first:
+      213: 7480060491640097038
+    second: NES - Castlevania - Simon Belmont(1)_691
+  - first:
+      213: 3165781003680860850
+    second: NES - Castlevania - Simon Belmont(1)_692
+  - first:
+      213: -5286723431737452535
+    second: NES - Castlevania - Simon Belmont(1)_693
+  - first:
+      213: 2371649144112339484
+    second: NES - Castlevania - Simon Belmont(1)_694
+  - first:
+      213: 720904974305830312
+    second: NES - Castlevania - Simon Belmont(1)_695
+  - first:
+      213: -8551178904763912049
+    second: NES - Castlevania - Simon Belmont(1)_696
+  - first:
+      213: -2260469980407853667
+    second: NES - Castlevania - Simon Belmont(1)_697
+  - first:
+      213: -5495217944007320150
+    second: NES - Castlevania - Simon Belmont(1)_698
+  - first:
+      213: -2358804731850402789
+    second: NES - Castlevania - Simon Belmont(1)_699
+  - first:
+      213: -1901977257776695635
+    second: NES - Castlevania - Simon Belmont(1)_700
+  - first:
+      213: -5548511400293784657
+    second: NES - Castlevania - Simon Belmont(1)_701
+  - first:
+      213: 2561661115359659343
+    second: NES - Castlevania - Simon Belmont(1)_702
+  - first:
+      213: 3461659152067299358
+    second: NES - Castlevania - Simon Belmont(1)_703
+  - first:
+      213: -7987127723386473735
+    second: NES - Castlevania - Simon Belmont(1)_704
+  - first:
+      213: 455391625063048652
+    second: NES - Castlevania - Simon Belmont(1)_705
+  - first:
+      213: 3060033360912644319
+    second: NES - Castlevania - Simon Belmont(1)_706
+  - first:
+      213: 3730253261383391420
+    second: NES - Castlevania - Simon Belmont(1)_707
+  - first:
+      213: 3255382903287868813
+    second: NES - Castlevania - Simon Belmont(1)_708
+  - first:
+      213: 3714441265356512447
+    second: NES - Castlevania - Simon Belmont(1)_709
+  - first:
+      213: -3498100576463553774
+    second: NES - Castlevania - Simon Belmont(1)_710
+  - first:
+      213: 4643466833277543637
+    second: NES - Castlevania - Simon Belmont(1)_711
+  - first:
+      213: 7252515715453927730
+    second: NES - Castlevania - Simon Belmont(1)_712
+  - first:
+      213: -696524523403716916
+    second: NES - Castlevania - Simon Belmont(1)_713
+  - first:
+      213: -5856745663136152404
+    second: FireBomb1
+  - first:
+      213: -3081651318490930519
+    second: NES - Castlevania - Simon Belmont(1)_715
+  - first:
+      213: 8109004444420487331
+    second: NES - Castlevania - Simon Belmont(1)_716
+  - first:
+      213: 4112388355656764775
+    second: NES - Castlevania - Simon Belmont(1)_717
+  - first:
+      213: 7251011249819245261
+    second: NES - Castlevania - Simon Belmont(1)_718
+  - first:
+      213: 202905042786602430
+    second: NES - Castlevania - Simon Belmont(1)_719
+  - first:
+      213: -4846552312339101788
+    second: NES - Castlevania - Simon Belmont(1)_720
+  - first:
+      213: -8286604569895170124
+    second: NES - Castlevania - Simon Belmont(1)_721
+  - first:
+      213: 4950061731429555094
+    second: NES - Castlevania - Simon Belmont(1)_722
+  - first:
+      213: 4452351963891814786
+    second: NES - Castlevania - Simon Belmont(1)_723
+  - first:
+      213: 7315634333331363512
+    second: NES - Castlevania - Simon Belmont(1)_724
+  - first:
+      213: -7087257715486378729
+    second: NES - Castlevania - Simon Belmont(1)_725
+  - first:
+      213: -4933218935582348712
+    second: NES - Castlevania - Simon Belmont(1)_726
+  - first:
+      213: -1638111814948827031
+    second: NES - Castlevania - Simon Belmont(1)_727
+  - first:
+      213: -832793896072426116
+    second: NES - Castlevania - Simon Belmont(1)_728
+  - first:
+      213: 11207192029305548
+    second: NES - Castlevania - Simon Belmont(1)_729
+  - first:
+      213: 993500712810973782
+    second: NES - Castlevania - Simon Belmont(1)_730
+  - first:
+      213: -1477782345451213627
+    second: NES - Castlevania - Simon Belmont(1)_731
+  - first:
+      213: 749957780385182288
+    second: NES - Castlevania - Simon Belmont(1)_732
+  - first:
+      213: 8809338537117363820
+    second: NES - Castlevania - Simon Belmont(1)_733
+  - first:
+      213: -8284993858648991575
+    second: NES - Castlevania - Simon Belmont(1)_734
+  - first:
+      213: -9066964986437987946
+    second: NES - Castlevania - Simon Belmont(1)_735
+  - first:
+      213: 7111677606995623998
+    second: NES - Castlevania - Simon Belmont(1)_736
+  - first:
+      213: 7126123041922046079
+    second: NES - Castlevania - Simon Belmont(1)_737
+  - first:
+      213: 3485116324793621595
+    second: NES - Castlevania - Simon Belmont(1)_738
+  - first:
+      213: -9002730333015834245
+    second: NES - Castlevania - Simon Belmont(1)_739
+  - first:
+      213: -5522500309926784748
+    second: NES - Castlevania - Simon Belmont(1)_740
+  - first:
+      213: -4440763365195734826
+    second: NES - Castlevania - Simon Belmont(1)_741
+  - first:
+      213: 2174630337276545712
+    second: NES - Castlevania - Simon Belmont(1)_742
+  - first:
+      213: -1540326390732887408
+    second: NES - Castlevania - Simon Belmont(1)_743
+  - first:
+      213: -7713744614625507247
+    second: NES - Castlevania - Simon Belmont(1)_744
+  - first:
+      213: -9061410361802132589
+    second: NES - Castlevania - Simon Belmont(1)_745
+  - first:
+      213: 369761667096441391
+    second: NES - Castlevania - Simon Belmont(1)_746
+  - first:
+      213: -6642102612860959629
+    second: Dagger
+  - first:
+      213: 6712405915604284802
+    second: Cross1
+  - first:
+      213: 25238704947041810
+    second: Cross2
+  - first:
+      213: 6399146532625686929
+    second: Cross3
+  - first:
+      213: 3161285539120649907
+    second: Axe1
+  - first:
+      213: -693248325971245129
+    second: Axe2
+  - first:
+      213: 8771607233914612182
+    second: Axe3
+  - first:
+      213: 1322306373551278089
+    second: Axe4
+  - first:
+      213: -9123811083072728749
+    second: HolyWater
+  - first:
+      213: -1342419279999219830
+    second: FireBomb2
+  - first:
+      213: 3571954409685969608
+    second: FireBomb3
+  - first:
+      213: -731673914475839807
+    second: FireBomb4
+  - first:
+      213: 3229748106732361338
+    second: FireBomb5
+  - first:
+      213: -6196744213517864381
+    second: Hit
+  - first:
+      213: -8355492351214450352
+    second: NES - Castlevania - Simon Belmont(1)_761
+  - first:
+      213: 1406758323043153011
+    second: NES - Castlevania - Simon Belmont(1)_762
+  - first:
+      213: -6800583564631003030
+    second: NES - Castlevania - Simon Belmont(1)_763
+  - first:
+      213: 5303010545568038481
+    second: NES - Castlevania - Simon Belmont(1)_764
+  - first:
+      213: 448477432140567935
+    second: NES - Castlevania - Simon Belmont(1)_765
+  - first:
+      213: 8197053459611116561
+    second: NES - Castlevania - Simon Belmont(1)_766
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 477
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d6ff4487d80a400800000000000000
+      internalID: 333421920118598964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 477
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7d51e14f3e3810800000000000000
+      internalID: 1746903257652755939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 477
+        width: 12
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a36f620c5dd30aa0800000000000000
+      internalID: -6195865275084086366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 477
+        width: 15
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c594063a6986a0010800000000000000
+      internalID: 1155851250569333084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JumpCrouch
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 484
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60de48ce37c57c00800000000000000
+      internalID: 897842773192790124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 476
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6dde33ac2d1150800000000000000
+      internalID: 5844876971042761364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 484
+        width: 16
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7c226bcc74cd9d0800000000000000
+      internalID: -2748242728048212064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 492
+        width: 32
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78953384d68d3ac70800000000000000
+      internalID: 8981260045781260679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 420
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae40832482984b0800000000000000
+      internalID: -5437770810200364415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 420
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0a47f3a478f8420800000000000000
+      internalID: 2634473059996967144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Throw3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 420
+        width: 22
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc75d526519720a0800000000000000
+      internalID: -6906391704361403174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckThrow1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 427
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2efd38d397b210e0800000000000000
+      internalID: -2300574614016885203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckThrow2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 427
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d83eb6a0524cdb20800000000000000
+      internalID: 3160473952669546711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DuckThrow3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 427
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee52a79ae0b3eec0800000000000000
+      internalID: -3538790360570241300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasic1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 32
+        height: 31
+      alignment: 9
+      pivot: {x: 0.25, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f08bbf039e92f50800000000000000
+      internalID: 6857268304239136633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasic2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 363
+        width: 32
+        height: 30
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0c5a7ea175bf4a0800000000000000
+      internalID: -6558552659267829522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasic3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 363
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdf0abed2338c100800000000000000
+      internalID: 128408861699800507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasic4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 363
+        width: 44
+        height: 29
+      alignment: 9
+      pivot: {x: 0.85, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefffbffd1485f910800000000000000
+      internalID: 1870546484622000106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasic5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 363
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f75ada9812d64b40800000000000000
+      internalID: 5424253804333389808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasicDuck1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 362
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f39e65fc4e13010800000000000000
+      internalID: 1166965357633159057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasicDuck2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 370
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a350d44c36150d5a0800000000000000
+      internalID: -6498604773358631622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasicDuck3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 370
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c243394896b9730800000000000000
+      internalID: 4006912311602457622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasicDuck4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 370
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c57acbbbba0fbe0800000000000000
+      internalID: -1445466657573610470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipBasicDuck5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 370
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573970474a50fb980800000000000000
+      internalID: -8521085766082260107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrong1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 305
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e18908de1e903c0800000000000000
+      internalID: -4392731551342256503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrong2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 306
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951e0d600528bc40800000000000000
+      internalID: 5528209226357151132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrong3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 306
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2176bb9c21743e9a0800000000000000
+      internalID: -6205037715566926062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrong4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 306
+        width: 44
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517da8d4a2d5e3830800000000000000
+      internalID: 4052779150950979349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrong5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 306
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6472d22018ac8b0800000000000000
+      internalID: -5131146979087792480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrongDuck1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 305
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4c20c1c0a24530800000000000000
+      internalID: 3837806586486345108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrongDuck2
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 313
+        width: 32
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e07ed00f5893010800000000000000
+      internalID: 1169112844351245874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrongDuck3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 313
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24be403e1747fbe80800000000000000
+      internalID: -8160675967283172542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrongDuck4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 313
+        width: 44
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cbd5f69b5e32530800000000000000
+      internalID: 3829156692795178135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhipStrongDuck5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 313
+        width: 16
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0470bd37ed1b0240800000000000000
+      internalID: 4758930310256686090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBomb1
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 37
+        width: 3
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c5f889d8a8bea0800000000000000
+      internalID: -5856745663136152404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dagger
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 40
+        width: 16
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748abe6dd282d3a0800000000000000
+      internalID: -6642102612860959629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross1
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 37
+        width: 14
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f2dbcd91472d50800000000000000
+      internalID: 6712405915604284802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 37
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21695fae77aa95000800000000000000
+      internalID: 25238704947041810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cross3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 37
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a3d60ed55ec850800000000000000
+      internalID: 6399146532625686929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe1
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 38
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b69dd8d2742fdb20800000000000000
+      internalID: 3161285539120649907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe2
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 38
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7895d02561166f0800000000000000
+      internalID: -693248325971245129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 36
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d92ab62e420bb970800000000000000
+      internalID: 8771607233914612182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axe4
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 36
+        width: 15
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90842cf04a6c95210800000000000000
+      internalID: 1322306373551278089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HolyWater
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 36
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3519da3f826b16180800000000000000
+      internalID: -9123811083072728749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBomb2
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 37
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c20cf6c4ce5de0800000000000000
+      internalID: -1342419279999219830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBomb3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 37
+        width: 8
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae83f4c91229130800000000000000
+      internalID: 3571954409685969608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBomb4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 36
+        width: 16
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce7f3c837298d5f0800000000000000
+      internalID: -731673914475839807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FireBomb5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 36
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d5c78ace52dc20800000000000000
+      internalID: 3229748106732361338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 42
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427f4538fdb00aa0800000000000000
+      internalID: -6196744213517864381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
